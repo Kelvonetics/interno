@@ -72,7 +72,7 @@ Subtitle: It is a long established fact that a reader will be distracted by the 
 NEWS
 ------------------
 Title: Articles & News
-Subtitle: It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using.
+Subtitle: It is a long established fact that a reader will be distracted by the of readable content of a page when looking at its layouts the points of using.
 
 Item 1:
 Title: Let’s Get Solution For Building Construction Work
