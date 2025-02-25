@@ -5,6 +5,7 @@ import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Pricing from "./components/Pricing"
 import Projects from "./components/Projects"
 import Stats from "./components/Stats"
 import Steps from "./components/Steps"
@@ -31,6 +32,8 @@ function App() {
       <Stats />
 
       <Blog />
+
+      <Pricing />
 
       <Contact />
 
