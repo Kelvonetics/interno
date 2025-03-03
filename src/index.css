@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .wrapper {
-    @apply bg-white shadow-lg fixed z-40 w-full;
+    @apply bg-white shadow-lg fixed z-40 w-full sm:px-10 transition-all duration-300;
 }
 
 .nav-div {
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .menu-items {
-    @apply sm:hidden lg:flex flex justify-start gap-7 cursor-pointer;
+    @apply hidden sm:flex md:flex justify-start gap-7 cursor-pointer;
 }
 
 .menu-item {
@@ -52,6 +52,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo-img {
     @apply h-6 object-contain;
+}
+
+.mobile-menu {
+    @apply  flex flex-col relative mt-5 px-3 gap-3 border border-accent rounded-xl
 }
 
 
