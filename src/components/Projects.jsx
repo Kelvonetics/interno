@@ -6,7 +6,7 @@ import proj_4 from '../assets/work/04.png'
 
 const Projects = () => {
   return (
-    <section className='projects mt-[80px] lg:mt-[200px] z-20'>
+    <section className='projects mt-[80px] lg:mt-[200px] z-20' id='project'>
       <div className="container mx-auto">
       <h1 className='text-4xl font-semibold mb-5 text-center'>Follow Our Projects</h1>
 
